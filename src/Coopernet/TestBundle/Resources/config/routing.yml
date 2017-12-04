@@ -1,0 +1,3 @@
+coopernet_test_homepage:
+    path:     /
+    defaults: { _controller: CoopernetTestBundle:Default:index }
